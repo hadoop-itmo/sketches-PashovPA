@@ -1,3 +1,9 @@
+"""
+Задание 4
+
+"""
+
+
 import mmh3
 import numpy as np
 
